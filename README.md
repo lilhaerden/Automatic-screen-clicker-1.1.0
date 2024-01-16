@@ -17,11 +17,11 @@ This Python script checks the location of a specified file on the desktop and pe
    - Navigate to the directory where the script is located in the terminal or command prompt.
    - Execute the following command to start the script:
      ```
-     python script_name.py
+     python auto_clicker1.1.0.py
      ```
      or
      ```
-     python3 script_name.py
+     python3 auto_clicker1.1.0.py
      ```
 
 4. **Notes During Usage:**
